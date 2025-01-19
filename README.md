@@ -1,7 +1,61 @@
 # Garage-management-system
 A Garage Management System project built using C# . NET, incorporating inheritance, polymorphism, Collections, enums, DLL files, multi-project architecture, and Exception handling.
+<br>
 
+<hr>
 
+<div>
+    The Main Menu:.<br><br>
+<img 
+    src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20214133.png" 
+    alt="Image Description"
+    width="400" 
+    height="250"
+    title="Garage Main Manu"
+/>
+   <br> The O's kings are marked with 'U', and The X's kings are marked with 'K'. At any point, the user can quit the game by entering 'Q' instead of a valid move.<br>
+<div/>
+    
+<hr>
+
+<div>
+    User Input Customer Details:.<br><br>
+<img 
+    src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222329.png" 
+    alt="Image Description"
+    width="400" 
+    height="250" 
+    title="Vehicle Details"
+/>
+<div/>
+
+<hr>
+
+<div>
+    User Input Customer Wheel Details:.<br><br>
+<img 
+    src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222358.png" 
+    alt="Image Description"
+    width="400" 
+    height="250" 
+    title="Wheel Details"
+/>  
+<div/>
+
+<hr>
+
+<div>
+    Example for option 7: Where you can see all the car details.<br><br>
+<img 
+    src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222425.png" 
+    alt="Image Description"
+    width="400" 
+    height="250" 
+    title="All Car Details"
+/>  
+<div/>
+    
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
