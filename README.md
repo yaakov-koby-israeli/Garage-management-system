@@ -23,7 +23,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222329.png" 
     alt="Image Description"
-    width="400" 
+    width="500" 
     height="250" 
     title="Vehicle Details"
 />
@@ -36,7 +36,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222358.png" 
     alt="Image Description"
-    width="400" 
+    width="500" 
     height="250" 
     title="Wheel Details"
 />  
