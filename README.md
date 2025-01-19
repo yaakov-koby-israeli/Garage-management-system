@@ -5,7 +5,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <hr>
 
 <div>
-    ## The Main Menu:
+    The Main Menu:<br><br>
     
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20214133.png" 
@@ -32,7 +32,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <hr>
 
 <div>
-    User Input Customer Wheel Details:.<br><br>
+    User Input Customer Wheel Details:<br><br>
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222358.png" 
     alt="Image Description"
