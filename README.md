@@ -5,7 +5,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <hr>
 
 <div>
-    The Main Menu:.<br><br>
+    #The Main Menu:<br><br>
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20214133.png" 
     alt="Image Description"
@@ -13,7 +13,6 @@ A Garage Management System project built using C# . NET, incorporating inheritan
     height="250"
     title="Garage Main Manu"
 />
-   <br> The O's kings are marked with 'U', and The X's kings are marked with 'K'. At any point, the user can quit the game by entering 'Q' instead of a valid move.<br>
 <div/>
     
 <hr>
@@ -23,7 +22,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222329.png" 
     alt="Image Description"
-    width="400" 
+    width="500" 
     height="250" 
     title="Vehicle Details"
 />
@@ -36,7 +35,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222358.png" 
     alt="Image Description"
-    width="400" 
+    width="500" 
     height="250" 
     title="Wheel Details"
 />  
@@ -49,7 +48,7 @@ A Garage Management System project built using C# . NET, incorporating inheritan
 <img 
     src="https://github.com/yaakov-koby-israeli/Garage-management-system/blob/main/Img/Screenshot%202025-01-19%20222425.png" 
     alt="Image Description"
-    width="400" 
+    width="500" 
     height="250" 
     title="All Car Details"
 />  
