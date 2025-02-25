@@ -65,6 +65,13 @@ A Garage Management System project built using C# . NET, incorporating inheritan
     width="40" 
     height="40" 
     title="C#" 
+  />
+   <img 
+    src="https://images.sftcdn.net/images/t_app-icon-s/p/4e3ff2d9-a662-4bde-ae06-cdfbef05ac53/1647265468/dotnet-icon.png" 
+    alt=".NET" 
+    width="40" 
+    height="40" 
+    title=".NET" 
   />    
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" 
